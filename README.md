@@ -4,13 +4,15 @@ Friday Project / date 29-09-2023
 
 In this project we use JAVA and Test Tools.
 
+---------------
 Domain: https://para.testar.org/
+---------------
 
-- Hakan Kılıç -    (Aliyamnuveybam@gmail.com)
+Hakan Kılıç -    (Aliyamnuveybam@gmail.com)
 
+---------------
 
-
-  Getting Started
+Getting Started
 ---------------
 
 ```bash
